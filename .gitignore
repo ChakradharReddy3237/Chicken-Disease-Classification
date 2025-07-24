@@ -20,3 +20,27 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+chicken/
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment variable files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

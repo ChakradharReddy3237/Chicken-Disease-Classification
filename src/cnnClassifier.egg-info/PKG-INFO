@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.1
+Summary: A small package for Chicken Disease Classification using CNN
+Home-page: https://github.com/ChakradharReddy3237/Chicken-Disease-Classification/issues
+Author: ChakradharReddy3237
+Author-email: chakradharreddyponnavolu@gmail.com
+Project-URL: Bug Tracker, https://github.com/ChakradharReddy3237/Chicken-Disease-Classification/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Chicken-Disease-Classification
